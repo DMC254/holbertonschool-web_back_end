@@ -11,7 +11,7 @@ from typing import List
 async_generator = __import__('0-async_generator').async_generator
 
 
-async def async_comprehesion() -> List[float]:
+async def async_comprehension() -> List[float]:
     """Asynchronous comprehension function.
 
     This coroutine will asynchronously generate a list of random numbers
