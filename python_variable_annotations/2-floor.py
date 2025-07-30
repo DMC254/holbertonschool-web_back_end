@@ -8,10 +8,10 @@ import math
 def floor(n: float) -> int:
     """
     Calculate the floor of a number.
-    
+
     Args:
-        n (floot): The number to calculate the floor of.
-    
+        n (float): The number to calculate the floor of.
+
     Returns:
         int: The largest integer less than or equal to the given number.
     """
